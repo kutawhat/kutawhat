@@ -18,7 +18,7 @@ int age = 20;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kutawhat) 
 <!--[![Dprofile](https://img.shields.io/badge/Dprofile-eb6246?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeT0iLTAuMDAwNDI3MjQ2IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQuMDAwOSIgcng9IjguMDQyNTIiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&link=https://dprofile.ru/kutaren)](https://dprofile.ru/kutaren)-->
 
----
+
 
 ## Design Stack:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -32,6 +32,8 @@ int age = 20;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+
 
 ```python
 <>========================================================================================================<>
