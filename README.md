@@ -1,7 +1,7 @@
 ![Banner](https://github.com/kutawhat/kutawhat/assets/64655969/f5280c20-9c00-416d-821f-6a4d8009fb5a)
 
-# Hey! 
-## I'm Product Designer from Moscow
+# Hey! I'm Product Designer from Moscow
+<!-- ## I'm Product Designer from Moscow -->
 
 ## Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/kutaren) 
