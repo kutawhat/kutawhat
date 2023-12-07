@@ -1,6 +1,6 @@
 <!--[Banner Green](https://github.com/kutawhat/kutawhat/assets/64655969/f5280c20-9c00-416d-821f-6a4d8009fb5a) -->
-<!-- ![Banner Blue](https://github.com/kutawhat/kutawhat/assets/64655969/3f776834-db6a-47a4-96a6-695db9162c8b) -->
-![Window](https://github.com/kutawhat/kutawhat/assets/64655969/16e72001-45f8-4ef0-93f5-95fc618a2b73)
+![Banner Blue](https://github.com/kutawhat/kutawhat/assets/64655969/3f776834-db6a-47a4-96a6-695db9162c8b) 
+<!-- ![Window](https://github.com/kutawhat/kutawhat/assets/64655969/16e72001-45f8-4ef0-93f5-95fc618a2b73)-->
 
 # Hey! I'm Product Designer from Moscow
 <!-- ## I'm Product Designer from Moscow -->
