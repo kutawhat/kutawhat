@@ -5,17 +5,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=6000&pause=500&color=596FF6&background=FF000000&vCenter=true&random=true&width=750&lines=Product+Designer*;IT+Student;Love+ASCII;C%D1%8A%D0%B5%D1%88%D1%8C+%D0%B5%D1%89%D1%91+%D1%8D%D1%82%D0%B8%D1%85+%D0%BC%D1%8F%D0%B3%D0%BA%D0%B8%D1%85+%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D1%85+%D0%B1%D1%83%D0%BB%D0%BE%D0%BA%2C+%D0%B4%D0%B0+%D0%B2%D1%8B%D0%BF%D0%B5%D0%B9+%D1%87%D0%B0%D1%8E;DAMN;%D0%9A%D1%83%D0%BA%D0%BE%D0%B6;Sir+Kukozh;uxui%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE;yopta+script+%3E+js)](https://git.io/typing-svg)
 
-# Hey! I'm Product Designer from Moscow
+# ⌘ Hey! I'm Product Designer from Moscow
 <!-- ## I'm Product Designer from Moscow -->
 
 ```cpp
 string firstName = "Sergey";
 string lastName = "Kovyazo";
-string OS = "MacOS";
 int age = 20;
 ```
 
-## ↘ Socials:
+## ↘ Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/kutaren) 
 [![Dprofile](https://img.shields.io/badge/Dprofile-eb6246?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yLjU5NDU5IDBDMS4xNjE2NCAwIDAgMS4xNjE2NCAwIDIuNTk0NTlWMjEuNDA1NEMwIDIyLjgzODQgMS4xNjE2NCAyNCAyLjU5NDU5IDI0SDIxLjQwNTRDMjIuODM4NCAyNCAyNCAyMi44Mzg0IDI0IDIxLjQwNTRWMi41OTQ1OUMyNCAxLjE2MTY0IDIyLjgzODQgMCAyMS40MDU0IDBIMi41OTQ1OVpNOS4wMzE5IDIuOTk5NzFDNS43MDA1OCAyLjk5OTcxIDMgNS43MDAyOSAzIDkuMDMxNjJWMTQuOTY4NUMzIDE4LjI5OTggNS43MDA1NyAyMS4wMDA0IDkuMDMxOSAyMS4wMDA0SDE0Ljk2ODFDMTguMjk5NCAyMS4wMDA0IDIxIDE4LjI5OTggMjEgMTQuOTY4NVY5LjAzMTYyQzIxIDUuNzAwMjkgMTguMjk5NCAyLjk5OTcxIDE0Ljk2ODEgMi45OTk3MUg5LjAzMTlaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&link=https://dprofile.ru/kutaren)](https://dprofile.ru/kutaren)
 <!--\n-->
@@ -23,7 +22,7 @@ int age = 20;
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kutawhat) 
 <!--[![Dprofile](https://img.shields.io/badge/Dprofile-eb6246?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeT0iLTAuMDAwNDI3MjQ2IiB3aWR0aD0iMjQiIGhlaWdodD0iMjQuMDAwOSIgcng9IjguMDQyNTIiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&link=https://dprofile.ru/kutaren)](https://dprofile.ru/kutaren)-->
 
-## ↘ Design Stack:
+## ↘ Design Stack
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
@@ -31,7 +30,7 @@ int age = 20;
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)  
 
-## ↘ Tech Stack:
+## ↘ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
