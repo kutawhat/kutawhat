@@ -3,7 +3,7 @@
 <!-- ![Banner Window](https://github.com/kutawhat/kutawhat/assets/64655969/16e72001-45f8-4ef0-93f5-95fc618a2b73) -->
 <!-- ![Banner_Window_1](https://github.com/kutawhat/kutawhat/assets/64655969/4a50f97a-fe85-465b-8f50-3f7afd03b3be) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=6000&pause=500&color=596FF6&background=FF000000&vCenter=true&random=true&width=750&lines=Product+Designer*;IT+Student;Love+ASCII;C%D1%8A%D0%B5%D1%88%D1%8C+%D0%B5%D1%89%D1%91+%D1%8D%D1%82%D0%B8%D1%85+%D0%BC%D1%8F%D0%B3%D0%BA%D0%B8%D1%85+%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D1%85+%D0%B1%D1%83%D0%BB%D0%BE%D0%BA%2C+%D0%B4%D0%B0+%D0%B2%D1%8B%D0%BF%D0%B5%D0%B9+%D1%87%D0%B0%D1%8E;DAMN;%D0%9A%D1%83%D0%BA%D0%BE%D0%B6;Sir+Kukozh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=6000&pause=500&color=596FF6&background=FF000000&vCenter=true&random=true&width=750&lines=Product+Designer*;IT+Student;Love+ASCII;C%D1%8A%D0%B5%D1%88%D1%8C+%D0%B5%D1%89%D1%91+%D1%8D%D1%82%D0%B8%D1%85+%D0%BC%D1%8F%D0%B3%D0%BA%D0%B8%D1%85+%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D1%85+%D0%B1%D1%83%D0%BB%D0%BE%D0%BA%2C+%D0%B4%D0%B0+%D0%B2%D1%8B%D0%BF%D0%B5%D0%B9+%D1%87%D0%B0%D1%8E;DAMN;%D0%9A%D1%83%D0%BA%D0%BE%D0%B6;Sir+Kukozh;uxui%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE;yopta+script+%3E+js)](https://git.io/typing-svg)
 
 # Hey! I'm Product Designer from Moscow
 <!-- ## I'm Product Designer from Moscow -->
