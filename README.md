@@ -17,19 +17,19 @@ int age = 20;
 
 ## Socials
 <a href="https://dprofile.ru/kutaren">
-  <img height="104" src="https://github.com/user-attachments/assets/1d0a6f21-3729-44a5-81ab-16f40388af6e" alt="Dproofile" />
+  <img height="60" src="https://github.com/user-attachments/assets/da3056ba-c240-40e9-8753-0ae202ac3f54" alt="Dproofile" />
 </a>
 <a href="https://www.behance.net/kutaren">
-  <img height="104" src="https://github.com/user-attachments/assets/d5becee7-922a-4e08-bc3a-a5c9c57bcbc5" alt="Behance" />
+  <img height="60" src="https://github.com/user-attachments/assets/afba50b5-99d5-43bc-a04d-7974839f6224" alt="Behance" />
 </a>
 
 
 ## Tools
-<img height="104" alt="tools" src="https://github.com/user-attachments/assets/6f09afd5-1ffb-42b4-97d8-4dd85cf94059">
+<img alt="tools" src="https://github.com/user-attachments/assets/6f09afd5-1ffb-42b4-97d8-4dd85cf94059">
 
 
 ## Languages
-<img height="104" alt="languages" src="https://github.com/user-attachments/assets/d79a6f73-87cc-4218-9498-62755c3e8929">
+<img alt="languages" src="https://github.com/user-attachments/assets/d79a6f73-87cc-4218-9498-62755c3e8929">
 
 <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
