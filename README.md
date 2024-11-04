@@ -25,11 +25,11 @@ int age = 20;
 
 
 ## Tools
-<img alt="tools" src="https://github.com/user-attachments/assets/6f09afd5-1ffb-42b4-97d8-4dd85cf94059">
+<img height="60" alt="tools" src="https://github.com/user-attachments/assets/6f09afd5-1ffb-42b4-97d8-4dd85cf94059">
 
 
 ## Languages
-<img alt="languages" src="https://github.com/user-attachments/assets/d79a6f73-87cc-4218-9498-62755c3e8929">
+<img height="60" alt="languages" src="https://github.com/user-attachments/assets/d79a6f73-87cc-4218-9498-62755c3e8929">
 
 <!--![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
