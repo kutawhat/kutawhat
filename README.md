@@ -24,12 +24,10 @@ int age = 20;
 </a>-->
 
 ## Languages
-<img height="60" alt="languages" src="https://github.com/user-attachments/assets/d79a6f73-87cc-4218-9498-62755c3e8929" hspace="2">
-<br />
+<img height="60" alt="languages" src="https://github.com/user-attachments/assets/9471047c-bd53-4f2d-b116-2ef7c1cb73a3" hspace="2">
 
 ## Tools
-<img height="60" alt="tools" src="https://github.com/user-attachments/assets/6f09afd5-1ffb-42b4-97d8-4dd85cf94059" hspace="2">
-<br />
+<img height="60" alt="tools" src="https://github.com/user-attachments/assets/3eecccc1-534e-4ed7-be8e-fc58e941d537" hspace="2">
 
 
 <!--```csh
